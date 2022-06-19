@@ -6,4 +6,4 @@ Página Inicial
 ![nome](https://github.com/Marhih/Site_de_Noticias/blob/main/PASTA_GITHUB_IMAGENS/1.png)
 
 Nome da Página e sistema de busca com efeitos neon.
-<a href=“https://github.com/Marhih/Site_de_Noticias/blob/main/PASTA_GITHUB_IMAGENS/3.png“>Busca no site</a>
+[Busca no site](https://github.com/Marhih/Site_de_Noticias/blob/main/PASTA_GITHUB_IMAGENS/3.png)
